@@ -29,4 +29,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: false  # No subir la imagen a ningún registro, según los requisitos
+        # tags: Endikson/holamundo (nombre de la imagwn
 
